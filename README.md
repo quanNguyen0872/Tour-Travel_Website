@@ -1,4 +1,4 @@
-https://github.com/quanNguyen0872/Tour-Travel_Website/blob/cb40044915b82e6cd6b11718fd425ba946439232/ScreenShots/Homepage.png
+!(https://github.com/quanNguyen0872/Tour-Travel_Website/blob/cb40044915b82e6cd6b11718fd425ba946439232/ScreenShots/Homepage.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
